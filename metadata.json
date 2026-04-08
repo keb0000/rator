@@ -1,5 +1,5 @@
 {
-  "name": "Smart Fridge & Culinary Assistant",
-  "description": "Snap a photo of your fridge to get personalized recipe suggestions, step-by-step cooking guides with read-aloud, and shopping lists.",
-  "requestFramePermissions": ["camera"]
+  "name": "VibeFinder (바이브파인더)",
+  "description": "좋아하는 노래를 기반으로 비슷한 분위기의 곡을 추천해주는 AI 음악 추천 서비스",
+  "requestFramePermissions": []
 }
